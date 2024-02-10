@@ -1,0 +1,8 @@
+1) Noise reduction
+2) Edit (if using “Truncate silence”, don't go too hard on it!!! -30 dB was too sensitive!)
+3) De-esser (TDR Nova) (??? Haven't quite figured this one out yet. Can skip.)
+4) Compression, step 1: Drop peaks (TDR Kotelnikov)
+5) Equalization (TDR Nova)
+6) Compression, stop 2: Smooth out (TDR Kotelnikov)
+7) Loudness normalization to -18 LUFS (perhaps try -17 or -17.5 – it really should be -16, but I just couldn't compress well enough to make that work)
+8) Limiter: Hard limit, -1 dB
